@@ -1,4 +1,4 @@
-# CampaignOS — Ride-Hailing Campaign Intelligence
+# CampaignOS - Ride-Hailing Campaign Intelligence
 
 An interactive growth analytics dashboard built with Google Apps Script and Google Sheets. It uses **synthetic, Bolt-inspired ride-hailing data** to show how campaign performance connects to experiment outcomes, contribution, guardrails, and business decisions. This is an independent portfolio project; it does not contain Bolt customer data or represent Bolt's actual results.
 
